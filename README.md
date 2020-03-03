@@ -17,3 +17,17 @@ wecms管理系统，使用koa2/tp5搭建的restapi服务，使用react+ant.desig
 - [ ] 物流相关
 
 #### 文档模块
+
+
+#### 
+
+开源不易，如果你觉得本项目还不错，不如给作者买杯咖啡提提神～
+
+<!-- ![](./assets/alipay.jpeg) -->
+
+
+<img src="./assets/alipay.jpeg" alt="图片替换文本" width="540" height="579" align="bottom" />
+
+<img src="./assets/wechat_pay.jpeg" alt="图片替换文本" width="540" height="379" align="bottom" />
+
+<!-- ![](./assets/wechat_pay.jpeg) -->
