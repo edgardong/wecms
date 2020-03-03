@@ -26,8 +26,8 @@ wecms管理系统，使用koa2/tp5搭建的restapi服务，使用react+ant.desig
 <!-- ![](./assets/alipay.jpeg) -->
 
 
-<img src="./assets/alipay.jpeg" alt="图片替换文本" width="540" height="579" align="bottom" />
-
-<img src="./assets/wechat_pay.jpeg" alt="图片替换文本" width="540" height="379" align="bottom" />
+<center class="half">
+<img src="./assets/alipay.jpeg" alt="支付宝" width="360" align="bottom" /><img src="./assets/wechat_pay.jpeg" alt="微信" width="360" align="bottom" />
+</center>
 
 <!-- ![](./assets/wechat_pay.jpeg) -->
