@@ -23,11 +23,7 @@ wecms管理系统，使用koa2/tp5搭建的restapi服务，使用react+ant.desig
 
 开源不易，如果你觉得本项目还不错，不如给作者买杯咖啡提提神～
 
-<!-- ![](./assets/alipay.jpeg) -->
-
 
 <center class="half">
-<img src="./assets/alipay.jpeg" alt="支付宝" width="360" align="bottom" /><img src="./assets/wechat_pay.jpeg" alt="微信" width="360" align="bottom" />
+<img src="./assets/alipay.jpeg" alt="支付宝" width="200"/>&nbsp;&nbsp;<img src="./assets/wechat_pay.jpeg" alt="微信" width="200" />
 </center>
-
-<!-- ![](./assets/wechat_pay.jpeg) -->
